@@ -1,0 +1,12 @@
+{
+  "name": "tinypng-node",
+  "version": "1.0.0",
+  "description": "node调用tinypng webapi压缩图片",
+  "main": "tiny.js",
+  "scripts": {
+    "start": "bun run tiny.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
